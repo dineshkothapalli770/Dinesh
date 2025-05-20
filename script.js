@@ -136,8 +136,8 @@ document.addEventListener("DOMContentLoaded", function() {
         const randomX = Math.random() * 100;
         const randomY = Math.random() * 100;
         
-        particle.style.left = ${randomX}%;
-        particle.style.top = ${randomY}%;
+        particle.style.left = `${randomX}%`;
+        particle.style.top = `${randomY}%`;
     });
     
     // Typing effect for hero subtitle
