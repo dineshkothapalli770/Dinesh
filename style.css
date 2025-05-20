@@ -19,9 +19,6 @@
 
 html {
     scroll-behavior: smooth;
-    height:100%;
-    margin:0;
-    padding:0;
 }
 
 body {
@@ -31,9 +28,6 @@ body {
     line-height: 1.6;
     overflow-x: hidden;
     position: fixed;
-    height:100%;
-    margin:0;
-    padding:0;
 }
 
 /* Custom Cursor */
